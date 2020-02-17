@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\SetConfigXMLResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\SetConfigXMLResponse;
+use Omt\BigBlueButton\TestCase;
 
 class SetConfigXMLResponseTest extends TestCase
 {

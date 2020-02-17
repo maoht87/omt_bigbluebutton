@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\HooksListResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\HooksListResponse;
+use Omt\BigBlueButton\TestCase;
 
 class HooksListResponseTest extends TestCase
 {

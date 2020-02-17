@@ -18,7 +18,7 @@
  */
 namespace Omt\BigBlueButton\Responses;
 
-use Omt\BigBlueButtonCore\Meeting;
+use Omt\BigBlueButton\Core\Meeting;
 
 /**
  * Class GetMeetingInfoResponse

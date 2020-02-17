@@ -18,7 +18,7 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonTestCase as TestCase;
+use Omt\BigBlueButton\TestCase as TestCase;
 
 /**
  * Class SetConfigXMLParametersTest

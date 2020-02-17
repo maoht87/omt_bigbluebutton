@@ -18,7 +18,7 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\TestCase;
 
 class PublishRecordingsParametersTest extends TestCase
 {

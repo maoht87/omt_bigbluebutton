@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\GetRecordingsResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\GetRecordingsResponse;
+use Omt\BigBlueButton\TestCase;
 
 class GetRecordingsResponseTest extends TestCase
 {

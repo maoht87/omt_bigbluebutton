@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\IsMeetingRunningResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\IsMeetingRunningResponse;
+use Omt\BigBlueButton\TestCase;
 
 class IsMeetingRunningResponseTest extends TestCase
 {

@@ -18,13 +18,13 @@
  */
 namespace Omt\BigBlueButton;
 
-use Omt\BigBlueButtonCore\ApiMethod;
-use Omt\BigBlueButtonParameters\DeleteRecordingsParameters;
-use Omt\BigBlueButtonParameters\EndMeetingParameters;
-use Omt\BigBlueButtonParameters\GetMeetingInfoParameters;
-use Omt\BigBlueButtonParameters\GetRecordingsParameters;
-use Omt\BigBlueButtonParameters\IsMeetingRunningParameters;
-use Omt\BigBlueButtonParameters\PublishRecordingsParameters;
+use Omt\BigBlueButton\Core\ApiMethod;
+use Omt\BigBlueButton\Parameters\DeleteRecordingsParameters;
+use Omt\BigBlueButton\Parameters\EndMeetingParameters;
+use Omt\BigBlueButton\Parameters\GetMeetingInfoParameters;
+use Omt\BigBlueButton\Parameters\GetRecordingsParameters;
+use Omt\BigBlueButton\Parameters\IsMeetingRunningParameters;
+use Omt\BigBlueButton\Parameters\PublishRecordingsParameters;
 
 /**
  * Class BigBlueButtonTest

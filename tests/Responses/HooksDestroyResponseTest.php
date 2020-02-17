@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\HooksDestroyResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\HooksDestroyResponse;
+use Omt\BigBlueButton\TestCase;
 
 class HooksDestroyResponseTest extends TestCase
 {

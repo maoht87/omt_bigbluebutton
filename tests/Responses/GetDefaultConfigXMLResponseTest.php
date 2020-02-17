@@ -18,7 +18,7 @@
  */
 namespace Omt\BigBlueButton\Responses;
 
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\TestCase;
 
 class GetDefaultConfigXMLResponseTest extends TestCase
 {

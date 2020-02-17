@@ -18,7 +18,7 @@
  */
 namespace Omt\BigBlueButton\Responses;
 
-use Omt\BigBlueButtonCore\Hook;
+use Omt\BigBlueButton\Core\Hook;
 
 /**
  * Class GetRecordingsResponse

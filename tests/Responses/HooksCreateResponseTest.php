@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\HooksCreateResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\HooksCreateResponse;
+use Omt\BigBlueButton\TestCase;
 
 class HooksCreateResponseTest extends TestCase
 {

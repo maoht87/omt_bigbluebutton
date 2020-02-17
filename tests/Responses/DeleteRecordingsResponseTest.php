@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\DeleteRecordingsResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\DeleteRecordingsResponse;
+use Omt\BigBlueButton\TestCase;
 
 class DeleteRecordingsResponseTest extends TestCase
 {

@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\JoinMeetingResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\JoinMeetingResponse;
+use Omt\BigBlueButton\TestCase;
 
 class JoinMeetingResponseTest extends TestCase
 {

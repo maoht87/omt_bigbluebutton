@@ -18,8 +18,8 @@
  */
 namespace Omt\BigBlueButton\Parameters;
 
-use Omt\BigBlueButtonResponses\ApiVersionResponse;
-use Omt\BigBlueButtonTestCase;
+use Omt\BigBlueButton\Responses\ApiVersionResponse;
+use Omt\BigBlueButton\TestCase;
 
 class ApiVersionResponseTest extends TestCase
 {

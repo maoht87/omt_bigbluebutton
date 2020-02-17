@@ -18,13 +18,13 @@
  */
 namespace Omt\BigBlueButton;
 
-use Omt\BigBlueButtonParameters\CreateMeetingParameters as CreateMeetingParameters;
-use Omt\BigBlueButtonParameters\EndMeetingParameters;
-use Omt\BigBlueButtonParameters\JoinMeetingParameters as JoinMeetingParameters;
-use Omt\BigBlueButtonParameters\SetConfigXMLParameters as SetConfigXMLParameters;
-use Omt\BigBlueButtonParameters\UpdateRecordingsParameters as UpdateRecordingsParameters;
-use Omt\BigBlueButtonResponses\CreateMeetingResponse;
-use Omt\BigBlueButtonResponses\UpdateRecordingsResponse;
+use Omt\BigBlueButton\Parameters\CreateMeetingParameters as CreateMeetingParameters;
+use Omt\BigBlueButton\Parameters\EndMeetingParameters;
+use Omt\BigBlueButton\Parameters\JoinMeetingParameters as JoinMeetingParameters;
+use Omt\BigBlueButton\Parameters\SetConfigXMLParameters as SetConfigXMLParameters;
+use Omt\BigBlueButton\Parameters\UpdateRecordingsParameters as UpdateRecordingsParameters;
+use Omt\BigBlueButton\Responses\CreateMeetingResponse;
+use Omt\BigBlueButton\Responses\UpdateRecordingsResponse;
 use Faker\Factory as Faker;
 use Faker\Generator as Generator;
 
