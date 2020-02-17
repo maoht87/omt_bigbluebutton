@@ -16,15 +16,15 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace BigBlueButton;
+namespace Omt\BigBlueButton;
 
-use BigBlueButton\Core\ApiMethod;
-use BigBlueButton\Parameters\DeleteRecordingsParameters;
-use BigBlueButton\Parameters\EndMeetingParameters;
-use BigBlueButton\Parameters\GetMeetingInfoParameters;
-use BigBlueButton\Parameters\GetRecordingsParameters;
-use BigBlueButton\Parameters\IsMeetingRunningParameters;
-use BigBlueButton\Parameters\PublishRecordingsParameters;
+use Omt\BigBlueButton\Core\ApiMethod;
+use Omt\BigBlueButton\Parameters\DeleteRecordingsParameters;
+use Omt\BigBlueButton\Parameters\EndMeetingParameters;
+use Omt\BigBlueButton\Parameters\GetMeetingInfoParameters;
+use Omt\BigBlueButton\Parameters\GetRecordingsParameters;
+use Omt\BigBlueButton\Parameters\IsMeetingRunningParameters;
+use Omt\BigBlueButton\Parameters\PublishRecordingsParameters;
 
 /**
  * Class BigBlueButtonTest

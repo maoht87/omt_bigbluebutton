@@ -16,37 +16,37 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace BigBlueButton;
+namespace Omt\BigBlueButton;
 
-use BigBlueButton\Core\ApiMethod;
-use BigBlueButton\Parameters\CreateMeetingParameters;
-use BigBlueButton\Parameters\DeleteRecordingsParameters;
-use BigBlueButton\Parameters\EndMeetingParameters;
-use BigBlueButton\Parameters\GetMeetingInfoParameters;
-use BigBlueButton\Parameters\GetRecordingsParameters;
-use BigBlueButton\Parameters\HooksCreateParameters;
-use BigBlueButton\Parameters\HooksDestroyParameters;
-use BigBlueButton\Parameters\IsMeetingRunningParameters;
-use BigBlueButton\Parameters\JoinMeetingParameters;
-use BigBlueButton\Parameters\PublishRecordingsParameters;
-use BigBlueButton\Parameters\UpdateRecordingsParameters;
-use BigBlueButton\Responses\ApiVersionResponse;
-use BigBlueButton\Responses\CreateMeetingResponse;
-use BigBlueButton\Responses\DeleteRecordingsResponse;
-use BigBlueButton\Responses\EndMeetingResponse;
-use BigBlueButton\Responses\GetDefaultConfigXMLResponse;
-use BigBlueButton\Responses\GetMeetingInfoResponse;
-use BigBlueButton\Responses\GetMeetingsResponse;
-use BigBlueButton\Responses\GetRecordingsResponse;
-use BigBlueButton\Responses\HooksCreateResponse;
-use BigBlueButton\Responses\HooksDestroyResponse;
-use BigBlueButton\Responses\HooksListResponse;
-use BigBlueButton\Responses\IsMeetingRunningResponse;
-use BigBlueButton\Responses\JoinMeetingResponse;
-use BigBlueButton\Responses\PublishRecordingsResponse;
-use BigBlueButton\Responses\SetConfigXMLResponse;
-use BigBlueButton\Responses\UpdateRecordingsResponse;
-use BigBlueButton\Util\UrlBuilder;
+use Omt\BigBlueButton\Core\ApiMethod;
+use Omt\BigBlueButton\Parameters\CreateMeetingParameters;
+use Omt\BigBlueButton\Parameters\DeleteRecordingsParameters;
+use Omt\BigBlueButton\Parameters\EndMeetingParameters;
+use Omt\BigBlueButton\Parameters\GetMeetingInfoParameters;
+use Omt\BigBlueButton\Parameters\GetRecordingsParameters;
+use Omt\BigBlueButton\Parameters\HooksCreateParameters;
+use Omt\BigBlueButton\Parameters\HooksDestroyParameters;
+use Omt\BigBlueButton\Parameters\IsMeetingRunningParameters;
+use Omt\BigBlueButton\Parameters\JoinMeetingParameters;
+use Omt\BigBlueButton\Parameters\PublishRecordingsParameters;
+use Omt\BigBlueButton\Parameters\UpdateRecordingsParameters;
+use Omt\BigBlueButton\Responses\ApiVersionResponse;
+use Omt\BigBlueButton\Responses\CreateMeetingResponse;
+use Omt\BigBlueButton\Responses\DeleteRecordingsResponse;
+use Omt\BigBlueButton\Responses\EndMeetingResponse;
+use Omt\BigBlueButton\Responses\GetDefaultConfigXMLResponse;
+use Omt\BigBlueButton\Responses\GetMeetingInfoResponse;
+use Omt\BigBlueButton\Responses\GetMeetingsResponse;
+use Omt\BigBlueButton\Responses\GetRecordingsResponse;
+use Omt\BigBlueButton\Responses\HooksCreateResponse;
+use Omt\BigBlueButton\Responses\HooksDestroyResponse;
+use Omt\BigBlueButton\Responses\HooksListResponse;
+use Omt\BigBlueButton\Responses\IsMeetingRunningResponse;
+use Omt\BigBlueButton\Responses\JoinMeetingResponse;
+use Omt\BigBlueButton\Responses\PublishRecordingsResponse;
+use Omt\BigBlueButton\Responses\SetConfigXMLResponse;
+use Omt\BigBlueButton\Responses\UpdateRecordingsResponse;
+use Omt\BigBlueButton\Util\UrlBuilder;
 use SimpleXMLElement;
 
 /**

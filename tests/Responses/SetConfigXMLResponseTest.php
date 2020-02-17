@@ -16,10 +16,10 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace BigBlueButton\Parameters;
+namespace Omt\BigBlueButton\Parameters;
 
-use BigBlueButton\Responses\SetConfigXMLResponse;
-use BigBlueButton\TestCase;
+use Omt\BigBlueButton\Responses\SetConfigXMLResponse;
+use Omt\BigBlueButton\TestCase;
 
 class SetConfigXMLResponseTest extends TestCase
 {

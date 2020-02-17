@@ -16,15 +16,15 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace BigBlueButton;
+namespace Omt\BigBlueButton;
 
-use BigBlueButton\Parameters\CreateMeetingParameters as CreateMeetingParameters;
-use BigBlueButton\Parameters\EndMeetingParameters;
-use BigBlueButton\Parameters\JoinMeetingParameters as JoinMeetingParameters;
-use BigBlueButton\Parameters\SetConfigXMLParameters as SetConfigXMLParameters;
-use BigBlueButton\Parameters\UpdateRecordingsParameters as UpdateRecordingsParameters;
-use BigBlueButton\Responses\CreateMeetingResponse;
-use BigBlueButton\Responses\UpdateRecordingsResponse;
+use Omt\BigBlueButton\Parameters\CreateMeetingParameters as CreateMeetingParameters;
+use Omt\BigBlueButton\Parameters\EndMeetingParameters;
+use Omt\BigBlueButton\Parameters\JoinMeetingParameters as JoinMeetingParameters;
+use Omt\BigBlueButton\Parameters\SetConfigXMLParameters as SetConfigXMLParameters;
+use Omt\BigBlueButton\Parameters\UpdateRecordingsParameters as UpdateRecordingsParameters;
+use Omt\BigBlueButton\Responses\CreateMeetingResponse;
+use Omt\BigBlueButton\Responses\UpdateRecordingsResponse;
 use Faker\Factory as Faker;
 use Faker\Generator as Generator;
 

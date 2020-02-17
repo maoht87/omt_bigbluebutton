@@ -16,7 +16,7 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace BigBlueButton\Responses;
+namespace Omt\BigBlueButton\Responses;
 
 /**
  * Class PublishRecordingsResponse
