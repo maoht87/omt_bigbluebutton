@@ -16,10 +16,10 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace BigBlueButton\Parameters;
+namespace Omt\BigBlueButton\Parameters;
 
-use BigBlueButton\Responses\EndMeetingResponse;
-use BigBlueButton\TestCase;
+use Omt\BigBlueButtonResponses\EndMeetingResponse;
+use Omt\BigBlueButtonTestCase;
 
 class EndMeetingResponseTest extends TestCase
 {
